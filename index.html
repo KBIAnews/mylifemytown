@@ -4,20 +4,15 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+      <div class="post-gallery">
+      {% for post in site.posts %}
+        <div class="post-thumb" href="{{post.url}}">
+          <a href="{{post.url}}"><img class="thumb-preview" src="{{site.baseurl}}/img/{{post.preview-img}}">
+          <h1>{{post.person}}</h1>
+          <h2>{{post.location}} - {{ post.date | date: "%Y" }}</h2></a>
+        </div>
+      {% endfor %}
+      </div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

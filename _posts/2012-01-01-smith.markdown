@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "A Different Path"
+date:   2012-01-01 12:00:00
+vimeo-id: "55302899"
+person: "Monica Smith"
+slug: "smith-different-path"
+location: "Higginsville, Missouri"
+author: "Greg Kendall-Ball and Alexandra Olgin"
+preview-img: "smith.png"
+---
+
+Smith is consumed with school, work and so many extra curriculars she can't keep count. People find it surprising that at 18 Monica keeps straight A's, works and participates in sports when they find out what she has gone through. Monica's parents have been in and out of jail since she was 8 years old. She currently lives with her grandparents in Higginsville, Missouri.
