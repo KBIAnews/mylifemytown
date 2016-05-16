@@ -7,13 +7,20 @@
 
 # Site settings
 title: My Life, My Town
-email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  More than a quarter of Missouri's population lives in rural areas. Many of the towns these people live in are beyond the point where our radio signal dies and are outside newspapers’ circulation areas.
-  ‘My Life, My Town’ documents a slice of time in the lives of teenagers from small Missouri towns. These are the youth who make up the hope and future of rural life – if they decide to stay. Our hope is that getting to know the children these villages raise will provide a unique look at the day-to-day joys and struggles of rural life.
-  ‘My Life, My Town’ is a collaboration by producers at KBIA and photographers and photo editors at the Columbia Missourian.
+  ‘My Life, My Town’ documents a slice of time in the lives of teenagers from small Missouri towns. 
+  These are the youth who make up the hope and future of rural life – if they decide to stay. 
+  Our hope is that getting to know the children these villages raise will provide a unique look at the day-to-day joys and struggles of rural life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mylifemytown.kbia.org" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+gems: ['jekyll-less']
+
+defaults:
+  -
+    scope:
+      type: "posts"
+    values:
+      permalink: /:year/:slug/
