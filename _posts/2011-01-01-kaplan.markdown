@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "School and Home"
+date:   2011-01-01 12:00:00
+youtube-id: "QTCnkz1M2Kw"
+person: "Max Kaplan"
+slug: "kaplan"
+location: "Sturgeon, Missouri"
+author: "Eve Edelheit"
+preview-img: "kaplan.png"
+---
+
+Max Kaplan is an 18 year old sophomore at Harrisburg High School. He lives in Sturgeon, Missouri on a farm with his mom and dad.
+
+Max was diagnosed with ADHD in 1st grade. His ADHD affects his reading and English abilities, which caused frustration throughout his childhood.
+
+While he does well in school now, he finds confidence in the work he does on his family's farm with their cattle and steers. He is the president of his 4H club and often competes in cow shows across the country.

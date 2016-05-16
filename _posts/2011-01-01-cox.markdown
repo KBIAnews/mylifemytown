@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "All-Season Athlete"
+date:   2011-01-01 12:00:00
+youtube-id: "G9SzM7pvuxs"
+person: "Stuart Cox"
+slug: "cox"
+location: "Centralia, Missouri"
+author: "Courtney Flatt, Clay Stalter and Andrew Williams"
+preview-img: "cox.png"
+---
+
+Stuart Cox is a 17 year old junior at Centralia High School.
+
+He keeps track of seasons not by name, but by sport. He loves football, basketball and baseball and hopes to continue playing sports in college.
+
+While that’s a focus for his immediate future, he does have plans to raise a family of his own one day. He says he might want to move to a larger town later in life, maybe nearby Mexico or Columbia. But he’s not sure about cities like St. Louis or Kansas City.

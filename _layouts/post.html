@@ -3,11 +3,17 @@ layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <div class="post-content">
-	  {{% if page.vimeo-id %}}
-	  <div class="mlmt-video embed-responsive embed-responsive-16by9">
-	  	<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/{{page.vimeo-id}}" frameborder="0"></iframe>
-	  </div>
-	  {{% endif %}}
+	  {% if page.vimeo-id %}
+		  <div class="mlmt-video embed-responsive embed-responsive-16by9">
+		  	<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/{{page.vimeo-id}}" frameborder="0"></iframe>
+		  </div>
+	  {% endif %}
+
+	  {% if page.youtube-id %}
+		  <div class="mlmt-video embed-responsive embed-responsive-16by9">
+		  	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{page.youtube-id}}" frameborder="0"></iframe>
+		  </div>
+	  {% endif %}
 
 	  <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 	  <p class="story-info"><span class="person">{{page.person}}</span> – <span class="location">{{ page.location }}</span> – <time class="story-date">{{ page.date | date: "%Y" }}</time></p>

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Bored in Lawson"
+date:   2011-01-01 12:00:00
+youtube-id: "2Sfb5cNjcvw"
+person: "Bored in Lawson"
+slug: "lawson"
+location: "Lawson, Missouri"
+author: "Katie Currid"
+preview-img: "lawson_index.jpg"
+---
+
+Life in a small town for many high schoolers is a perpetual search for something to do. For those in Lawson, a rural town of less than 3,000 north of Kansas City, it's no different. Between high school and athletic events, time is spent cruising, texting, going to Sonic and just hanging out. Between the love/hate relationship with the lack of things to do, though, is an appreciation of the connectedness and wholesomeness that comes in a small town.
