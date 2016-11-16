@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bullets and Blow-Dryers"
+title:  "A Home of Our Own"
 date:   2015-01-01 12:00:00
 vimeo-id: "149838948"
 person: "Trinity Rainey"

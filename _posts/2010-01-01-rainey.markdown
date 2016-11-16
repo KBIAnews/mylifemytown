@@ -2,7 +2,7 @@
 layout: post
 title:  "'Out' in a Small Town"
 date:   2011-01-01 12:00:00
-youtube-id: "AZm6HYs3X3s"
+youtube-id: "Oiijdc3CVaI"
 person: "Trinity Rainey"
 slug: "rainey-out-small-town"
 location: "Macon, Missouri"
